@@ -9,7 +9,7 @@ can predict in a very computationally inexpensive way what is going to be the co
 X timestamps without the need of actually carrying the simulation. 
 
 <p align="center">
-  <img src="RNN_topology.PNG" width="350" alt="accessibility text">
+  <img src="RNN_topology.png" width="350" alt="accessibility text">
 </p>
 Figure: Topology of Predictor Neural Network
 
@@ -22,6 +22,6 @@ All nodes encountered in the same level of the tree therefore represent a set of
 so the MCST aims to search for a node in a given level for which the added sum of the roads congestion levels is minimum.
 
 <p align="center">
-  <img src="MCST.PNG" width="350" alt="accessibility text">
+  <img src="MCST.png" width="350" alt="accessibility text">
 </p>
 Figure: Stucture of the MCST
