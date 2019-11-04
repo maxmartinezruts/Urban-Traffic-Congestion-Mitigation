@@ -22,6 +22,6 @@ All nodes encountered in the same level of the tree therefore represent a set of
 so the MCST aims to search for a node in a given level for which the added sum of the roads congestion levels is minimum.
 
 <p align="center">
-  <img src="MCST.png" width="350" alt="accessibility text">
+  <img src="MCST.png" width="600" alt="accessibility text">
 </p>
 Figure: Stucture of the MCST
